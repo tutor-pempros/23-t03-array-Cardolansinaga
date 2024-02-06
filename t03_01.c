@@ -26,6 +26,6 @@ int main() {
     // Menampilkan nilai minimum dan maksimum
     printf("%d\n", min);
     printf("%d\n", max);
-
+ 
     return 0;
 }
